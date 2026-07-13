@@ -44,7 +44,7 @@ I provide a comprehensive range of data processing,  and visualization services 
 ---
 
 ## 📬 Connect with Me
-Need your genomic, statistical, or research data transformed into professional charts? Let's connect!
+Need your genomic, or research data transformed into professional charts? Let's connect!
 
 
 - 📧 **Email:** *(algarnishrouq@gmail.com)*
