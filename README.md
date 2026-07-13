@@ -6,7 +6,7 @@
 </p>
 
 ## 🧬 About Me
-I am a **Biochemistry Master's Student** with professional experience from the **Jeddah univirsty**. Alongside my lab background, I have developed a solid foundation in **Bioinformatics and Data Visualization**. My core mission is helping researchers turn their raw experimental and genomic results into clear, professional, and publication-ready scientific charts.
+I am a **Biochemistry Master's Student** with professional experience from the **university of Jeddah**. Alongside my lab background, I have developed a solid foundation in **Bioinformatics and Data Visualization**. My core mission is helping researchers turn their raw experimental and genomic results into clear, professional, and publication-ready scientific charts.
 
 - 🔬 **Academic Background:** Master's in Biochemistry.
 - 📊 **Core Focus:** Transforming raw biological and NGS data into high-quality scientific plots.
